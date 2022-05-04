@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Inconsolata:wght@300;700&display=swap');
+
+.titulo{
+    padding-left: 30px;
+    color: white;
+    font-size: 25px;
+}
+
+.ev{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 50px;
+    padding-bottom: 0px;
+}
+
+#uno{
+    background: #E8CBC0;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #636FA4, #E8CBC0);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #636FA4, #E8CBC0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.tres{
+    font-size: large;
+}
